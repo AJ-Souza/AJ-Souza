@@ -1,4 +1,4 @@
-### Hi there, Aldo here! Let's code? 🧑‍💻
+### Hi there, Aldo here! Let's code?
 
 Coding Goals: Learn
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
