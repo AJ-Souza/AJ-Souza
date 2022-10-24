@@ -10,6 +10,7 @@ Coding Goals: Learn
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Souza&theme=blue-green)
 
 
+
 #### 😂 Here is a random joke, because life is too short to be sad!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
