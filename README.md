@@ -7,7 +7,7 @@ Coding Goals: Learn
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJ-Souza) </br> and whatever else comes!
 
 [![Aldo's github stats](https://github-readme-stats.vercel.app/api?username=AJ-Souza&theme=blue-green)](https://github.com/AJ-Souza/github-readme-stats)
-![Aldo's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Souza&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Souza&theme=blue-green)
 
 
 #### 😂 Here is a random joke, because life is too short to be sad!
